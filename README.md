@@ -11,6 +11,5 @@ URLs for the latest releases:
 
 - v1.1.0.7 Win  https://github.com/fzcoin/frozencoin_binaries/archive/v1.1.0.7.zip
 - v1.1.0.7 Mac  https://github.com/fzcoin/frozencoin_binaries/archive/v1.1.0.7_osx.zip
-- v1.1.0.6      https://github.com/fzcoin/frozencoin_binaries/archive/v1.1.0.6.zip
-- v1.1.0.5      https://github.com/fzcoin/frozencoin_binaries/archive/v1.1.0.5.zip
+- v1.1.0.6 Win  https://github.com/fzcoin/frozencoin_binaries/archive/v1.1.0.6.zip
 
